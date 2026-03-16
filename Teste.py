@@ -1,6 +1,5 @@
-num1 = 18
-num2 = 2
+contador = 0
 
-soma = num1 + num2
-
-print("A soma dos numeros é:",soma)
+while contador < 5:
+    print (f"contador: {(contador)}")
+    contador += 1
