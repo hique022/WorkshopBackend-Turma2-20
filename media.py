@@ -10,4 +10,4 @@ for i in range (len(notas)):
 
 media = soma / soma_pesos
 
-print(media)
+print("A media ponderada é :",media)
